@@ -7,5 +7,7 @@ A block is another empty object which can be filled with a number of criteria, f
 
 Using the MapSettings I made a randomizer which can make random maps which are still bound to specific criteria which someone can enter. Afterwards in the main "Program.cs" script I made a visual display in a Windows Console. Both to input the settings for a map, and the eventual display.
 
+Map Tools are used to easily execute repeatable actions on the map which have been pre-determined.
+
 Towards the end I spent some time creating different "map" types, for example a map which instead of having a Square form would end up having a Cross as a form, or even a map made up of lines.
 
